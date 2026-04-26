@@ -82,6 +82,3 @@ Low-confidence fields (< 0.7) are flagged.
 
 ---
 
-## Repository Link
-
-(Add your GitHub link here)

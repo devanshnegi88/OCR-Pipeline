@@ -1,0 +1,278 @@
+{
+  "receipts": [
+    {
+      "file": "0.jpg",
+      "raw_text": "WAL  MART\nALWAYS\nLow PRIGES.\nAlwwone\nSUPERCENTER\nOPEN 24 KOURS\nMANAGER\nTBA\n515\n986\n1783\nST# 5748 OP# 00000158 TEIL14 TR# 03178\nBANANAS\n00000000401iKF\n0.41\nIb\n1 Ib /0.49\n0.20\nFRAP\n001200010451\nF\n5.48\nN\nDISCOUNT   GIVEN\nSUBTOTAL\n8\nTOITAL\nGHSNGe\n\"eue\n13\n83\n# ITEMS SOLD 2\nT95e79,8348,6485.7828.2003\nH\nHI\nTHANK YoU EOR SHOPPING NITH Us\nNATHANiEL'Bust\nYour\nShop at Talmart\n8 Get\nBack t8 scfiooi\nfor\n08720/10\n189.88\nLess_",
+      "structured": {
+        "store_name": "WAL  MART",
+        "date": null,
+        "items": [
+          {
+            "name": "1 Ib /",
+            "price": "0.49"
+          }
+        ],
+        "total_amount": "189.88",
+        "_meta": {
+          "avg_ocr_confidence": 0.6701,
+          "line_count": 45
+        }
+      },
+      "confidence_output": {
+        "store_name": {
+          "value": "WAL  MART",
+          "confidence": 0.8021
+        },
+        "date": {
+          "value": null,
+          "confidence": 0.0
+        },
+        "total_amount": {
+          "value": "189.88",
+          "confidence": 0.7856
+        },
+        "items": [
+          {
+            "name": {
+              "value": "1 Ib /",
+              "confidence": 0.6686
+            },
+            "price": {
+              "value": "0.49",
+              "confidence": 0.6356
+            }
+          }
+        ],
+        "flags": [
+          {
+            "field": "date",
+            "confidence": 0.0,
+            "warning": "Low confidence – manual review recommended"
+          },
+          {
+            "field": "items[0].name",
+            "confidence": 0.6686,
+            "warning": "Low confidence – manual review recommended"
+          },
+          {
+            "field": "items[0].price",
+            "confidence": 0.6356,
+            "warning": "Low confidence – manual review recommended"
+          }
+        ]
+      }
+    },
+    {
+      "file": "18.jpg",
+      "raw_text": "Gyv\n(cocljaek\nclr\"vay, wulnur\ncom\nTllk  Yuxtt  TD) 0 ' 1041137157NX5'\nWalmart\n063\nc48c93S3AE8h,EL\n1450 CYPRESS\nBLVD\nMINieh HANEN F4 33884\nSIH 03347 Coi 0090os JEV J6 TRH 05386_\nGv WATER\n07874535494\n0,98\nGv HaIEk\n07814235191\n0.98\nCRREAT VaIUf\n007874206202\n84\nCREA VMU\n027874206202\nGAZN LFe\n003700077007\nGATN\n03700076954\nGv VEC 0JL\n017874721000\nSNLCKER FS\n004000050533\nCOUR FS; GrK\n003400029556\nMIXED Cikc\n840000i7542\nCFIERRIES\nGATN\nHy RSILEG PM\nBATTERTES\n8\nGV 20Z HINI\n58\nCRNBRY  SAUXT\nSPRCADS\nEGGS 6CT\nTax\n1.00\n86\nTotaL\n86\nTe:\nDe\nPay Fict\n[T} &6165\nTotAL_\n9832\nREF\n8076 APPR CODE\nTD\nDs Debit\nATD\nAAC\n18\n3938_\nTcI 7563\nVay\nYot Can\nCoS\n0w\n837050273\n035497333521H\n001280051783\n007874219999\n003120001605\n002740026499\n1\n007874212709\nSuato[AL\nDEBIT\nCiuuce\nPRIHARY\nDEBIT\nPURciuS\nI 0\nTK*\nKIIr\nDEBIT\nFIFTIITIMRD\n\"130400725877\n001740\nNETHORK\nRo0n00842203\nA8FABF300F007485\nSC011151\n10;08:22\nTCRHINAL\n10/31/21\nSULD\n7373\nITEHS\n0953\n71623\n'Every\nInust -\n10:08:26\n70/31/21",
+      "structured": {
+        "store_name": "Gyv",
+        "date": "10/31/21",
+        "items": [],
+        "total_amount": "1.00",
+        "_meta": {
+          "avg_ocr_confidence": 0.5123,
+          "line_count": 106
+        }
+      },
+      "confidence_output": {
+        "store_name": {
+          "value": "Gyv",
+          "confidence": 0.7074
+        },
+        "date": {
+          "value": "10/31/21",
+          "confidence": 0.7086
+        },
+        "total_amount": {
+          "value": "1.00",
+          "confidence": 0.763
+        },
+        "items": [],
+        "flags": []
+      }
+    },
+    {
+      "file": "4.jpg",
+      "raw_text": "Walnart\nSave monoy: Llve better:\n8\"Bonez6e\n) 366\n3326\nMANAGER\nKONEYMAKER\n3201 Hakat CENRE DR\n0193u851c 9020665186198603\nST#\n0P\" 002031 TEL, 20 TR# 05145\nSW HRo FGHTR\n'Ogjo5g98487aL\nTaX\n7,o0f0tL\nB\nDEBIT\ntend\nChaNGe' DUE\n0.\nEFT  QEBIT\nPay FRoK PRIHARY\n43\nToTAL RurchaSe\nCCounT,\nJKXT\n#Kix\nXKxi !  @'\n5\nEEivoe\n5312003887\nID.\nZGrppr CODE 087193\nTERHINAL\nHk995026\n12/08/15\n12:39,24\n# ITEMS SOLD\n1\nICA 3261,4114,0323 3061,6498\nIihili\nNeD store hqurs\nOpen 6am}\nAanfeht_\ndayb\nweek .\ni2f88/tgr\n12139126\nSavIngs Catcher\nScan Wath Walnart\nPP",
+      "structured": {
+        "store_name": "Walnart",
+        "date": "12/08/15",
+        "items": [
+          {
+            "name": "12",
+            "price": "39,24"
+          }
+        ],
+        "total_amount": "39,24",
+        "_meta": {
+          "avg_ocr_confidence": 0.436,
+          "line_count": 51
+        }
+      },
+      "confidence_output": {
+        "store_name": {
+          "value": "Walnart",
+          "confidence": 0.6616
+        },
+        "date": {
+          "value": "12/08/15",
+          "confidence": 0.6552
+        },
+        "total_amount": {
+          "value": "39,24",
+          "confidence": 0.7134
+        },
+        "items": [
+          {
+            "name": {
+              "value": "12",
+              "confidence": 0.5398
+            },
+            "price": {
+              "value": "39,24",
+              "confidence": 0.4834
+            }
+          }
+        ],
+        "flags": [
+          {
+            "field": "store_name",
+            "confidence": 0.6616,
+            "warning": "Low confidence – manual review recommended"
+          },
+          {
+            "field": "date",
+            "confidence": 0.6552,
+            "warning": "Low confidence – manual review recommended"
+          },
+          {
+            "field": "items[0].name",
+            "confidence": 0.5398,
+            "warning": "Low confidence – manual review recommended"
+          },
+          {
+            "field": "items[0].price",
+            "confidence": 0.4834,
+            "warning": "Low confidence – manual review recommended"
+          }
+        ]
+      }
+    },
+    {
+      "file": "9.jpg",
+      "raw_text": "[VimGd\nTit\nF@@ D S\nIW Pfr hsWt\n5\"19c9r988 46GG ,\n23065\nYolanda\n11,16,24\nTX\nI\n7056087677\n2.56 fS\n28\nB\n18\nDIEI\nLN\nPORK\nFP\nMA 5 Ee 2475630008\nEERw\nBEEF FoR\nPORK 1/2\nB/BEST $\nBaRtS MeAT FRNK\n0/m HAH\n7055280303\nWINCO NOODLES\nTNdRBRo\nchiBaeR 3787401918\n5.84F\nKRFT DELUXE MAc\n2 0\n1.82\n435\nEounahaars , 3800334\n1\nLg OAiMEal CRM_7430004103\nHEEStotRousE\nTao@0f006\n1\nU\nturkey FRANK\n4222281210\nRESERS POT SLD\n7111719300\nDM SPaG SAUCE\n2400052363\nHunts MANWICH\n2700044212\n1.64\n2\n82\nDM PNAPL  CHNKY\n2400000164\n~1,96-FS\n2 @\n98-\"\nSUNBEAN BUNS\n7763305333\n1,98\nEncS HoRgcHLEK 7455200606\n'98\nR\nEGGS\n7003837280\n37\nSUBTOTAL\n121_\n83\nTOTAL TaX\nTOTAL\n421.92\n5ufvtmtt4rt [\n0g3,=ao8\n(dshlur\n09/08/14\n2\nGRLC\nNYORK\n0\n#INGS\nCHICKEN\nBLEND\nPICSMEET\n134\nGREENS\nPICSHEET\n2683848888\nNINGS\n1\n1\nCHICKEN\nGRND\n20337400000\nCHOP\n1\n11800000\nLOIN\n26842\nDRUHSTICKS\n201482000(\nStk\n20254300005\nSTEH\n2032330000C\nLOIN\n44979212\nSTEAK\n1590013401\n3\n4470001903\n2100055886\n1",
+      "structured": {
+        "store_name": "[VimGd",
+        "date": "09/08/14",
+        "items": [],
+        "total_amount": "421.92",
+        "_meta": {
+          "avg_ocr_confidence": 0.5401,
+          "line_count": 114
+        }
+      },
+      "confidence_output": {
+        "store_name": {
+          "value": "[VimGd",
+          "confidence": 0.7241
+        },
+        "date": {
+          "value": "09/08/14",
+          "confidence": 0.7281
+        },
+        "total_amount": {
+          "value": "421.92",
+          "confidence": 0.7811
+        },
+        "items": [],
+        "flags": []
+      }
+    },
+    {
+      "file": "X51005268262.jpg",
+      "raw_text": "HOME Irs7e@ kardware &\nElecicaL\nNa.t13G & 115G, JaLANSEtIA GEMBILANG\nUt3aG BANDar SETIA ALAM;\n40170 BANdAR SETIA ALAM,\nseWariG@RC\nCqmpzny Reg No. ;GAlaZ1t69t-P\nGST\nNo. \"oqt8378t1t68\ntaExxcice\nInvolte NYo:;\nC367332\nDate\n221222017 14,03\nGashler#;\nCaster\nRR\nCode\nD4mmxzy' M.ONIE TApE\nt.0Q\n8\n15,90\n15.90\nSuitotal :\n15.90\nTotal Excl . 0i @5T\nt5.00\nTotz} Ingi  qf' GST\n15.90\nTotal Ant Rounted\n16,90\nPzyment\n50.00\nDuz\n34.10\nTotzl Item(a}\n1\n'ummary\nAttouni (QN)\nTzx (Qm)\nSR\n6%\nt5.00\n0.90\n4446'\n0844401\nthaNF YQu\nANt GoQds RETURN PLCASE d@ WITHIN\n7 Days WIth OriGinAL RECEIPT Tom\nRey\"\nChany?",
+      "structured": {
+        "store_name": "HOME Irs7e@ kardware &",
+        "date": null,
+        "items": [],
+        "total_amount": "0.90",
+        "_meta": {
+          "avg_ocr_confidence": 0.437,
+          "line_count": 51
+        }
+      },
+      "confidence_output": {
+        "store_name": {
+          "value": "HOME Irs7e@ kardware &",
+          "confidence": 0.6622
+        },
+        "date": {
+          "value": null,
+          "confidence": 0.0
+        },
+        "total_amount": {
+          "value": "0.90",
+          "confidence": 0.7141
+        },
+        "items": [],
+        "flags": [
+          {
+            "field": "store_name",
+            "confidence": 0.6622,
+            "warning": "Low confidence – manual review recommended"
+          },
+          {
+            "field": "date",
+            "confidence": 0.0,
+            "warning": "Low confidence – manual review recommended"
+          }
+        ]
+      }
+    },
+    {
+      "file": "X51005447848.jpg",
+      "raw_text": "LIAN CHI PU TIAN VEGETARIAN\nRESTAURANT SDN BHD\n1095514-X _\n(GST ID No\n001147416576)\n54,JALAN SS23/11\nTAMAN SEA,47400\nPETALING JAYA,SELANGOR\nTcl 03-7805 7889, 016-3020 669\nTable\n:8\nCashier\nDate\n06/01/18\n12 17 26 PM\nIlein\nQty\nPrice\nAmout\n(S)\n15.90\nCURRY MIXED VEGE\n515\n16 35\n16 ?' .\n:R\n(S)\n13 90\n517\n14 73\n14 73\nSR\n(12 PCS)\n12 00\n'XINGHUA' SPRING ROLL\n410\n12 72\n12 72\nSF\n(POT)\n3 00\nTI GUAN YIN TEA\n822\n3 18\n3 18\nSR\n(B)\n50\nPLAIN RICE\n922\n2\n1\n59\n3 18\nSR\nGross Amt\n47 80\nSvr Tax\n2 87\nGST (6%)\n2.86\nNet Amt\n53.55\n(XS*[' SIlliii)\nAmuRA)\n'IiLM(RA/)\n(p0 0\n2 87\nU.(1\nSR ( 690\n117.80\n2 S6\nTHANK YOU\nPLEASE COME AGAIN",
+      "structured": {
+        "store_name": "LIAN CHI PU TIAN VEGETARIAN",
+        "date": "06/01/18",
+        "items": [],
+        "total_amount": "117.80",
+        "_meta": {
+          "avg_ocr_confidence": 0.8092,
+          "line_count": 74
+        }
+      },
+      "confidence_output": {
+        "store_name": {
+          "value": "LIAN CHI PU TIAN VEGETARIAN",
+          "confidence": 0.8855
+        },
+        "date": {
+          "value": "06/01/18",
+          "confidence": 0.9164
+        },
+        "total_amount": {
+          "value": "117.80",
+          "confidence": 0.876
+        },
+        "items": [],
+        "flags": []
+      }
+    }
+  ],
+  "summary": {
+    "total_spend": 4655.5,
+    "num_transactions": 6,
+    "spend_per_store": {
+      "Walnart": 3924.0,
+      "[VimGd": 421.92,
+      "WAL  MART": 189.88,
+      "LIAN CHI PU TIAN VEGETARIAN": 117.8,
+      "Gyv": 1.0,
+      "HOME Irs7e@ kardware &": 0.9
+    },
+    "failed_files": [],
+    "currency_note": "All amounts in document currency (not normalised)"
+  }
+}

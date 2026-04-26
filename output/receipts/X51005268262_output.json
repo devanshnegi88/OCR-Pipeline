@@ -1,0 +1,41 @@
+{
+  "file": "X51005268262.jpg",
+  "raw_text": "HOME Irs7e@ kardware &\nElecicaL\nNa.t13G & 115G, JaLANSEtIA GEMBILANG\nUt3aG BANDar SETIA ALAM;\n40170 BANdAR SETIA ALAM,\nseWariG@RC\nCqmpzny Reg No. ;GAlaZ1t69t-P\nGST\nNo. \"oqt8378t1t68\ntaExxcice\nInvolte NYo:;\nC367332\nDate\n221222017 14,03\nGashler#;\nCaster\nRR\nCode\nD4mmxzy' M.ONIE TApE\nt.0Q\n8\n15,90\n15.90\nSuitotal :\n15.90\nTotal Excl . 0i @5T\nt5.00\nTotz} Ingi  qf' GST\n15.90\nTotal Ant Rounted\n16,90\nPzyment\n50.00\nDuz\n34.10\nTotzl Item(a}\n1\n'ummary\nAttouni (QN)\nTzx (Qm)\nSR\n6%\nt5.00\n0.90\n4446'\n0844401\nthaNF YQu\nANt GoQds RETURN PLCASE d@ WITHIN\n7 Days WIth OriGinAL RECEIPT Tom\nRey\"\nChany?",
+  "structured": {
+    "store_name": "HOME Irs7e@ kardware &",
+    "date": null,
+    "items": [],
+    "total_amount": "0.90",
+    "_meta": {
+      "avg_ocr_confidence": 0.437,
+      "line_count": 51
+    }
+  },
+  "confidence_output": {
+    "store_name": {
+      "value": "HOME Irs7e@ kardware &",
+      "confidence": 0.6622
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": "0.90",
+      "confidence": 0.7141
+    },
+    "items": [],
+    "flags": [
+      {
+        "field": "store_name",
+        "confidence": 0.6622,
+        "warning": "Low confidence – manual review recommended"
+      },
+      {
+        "field": "date",
+        "confidence": 0.0,
+        "warning": "Low confidence – manual review recommended"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "file": "4.jpg",
+  "raw_text": "Walnart\nSave monoy: Llve better:\n8\"Bonez6e\n) 366\n3326\nMANAGER\nKONEYMAKER\n3201 Hakat CENRE DR\n0193u851c 9020665186198603\nST#\n0P\" 002031 TEL, 20 TR# 05145\nSW HRo FGHTR\n'Ogjo5g98487aL\nTaX\n7,o0f0tL\nB\nDEBIT\ntend\nChaNGe' DUE\n0.\nEFT  QEBIT\nPay FRoK PRIHARY\n43\nToTAL RurchaSe\nCCounT,\nJKXT\n#Kix\nXKxi !  @'\n5\nEEivoe\n5312003887\nID.\nZGrppr CODE 087193\nTERHINAL\nHk995026\n12/08/15\n12:39,24\n# ITEMS SOLD\n1\nICA 3261,4114,0323 3061,6498\nIihili\nNeD store hqurs\nOpen 6am}\nAanfeht_\ndayb\nweek .\ni2f88/tgr\n12139126\nSavIngs Catcher\nScan Wath Walnart\nPP",
+  "structured": {
+    "store_name": "Walnart",
+    "date": "12/08/15",
+    "items": [
+      {
+        "name": "12",
+        "price": "39,24"
+      }
+    ],
+    "total_amount": "39,24",
+    "_meta": {
+      "avg_ocr_confidence": 0.436,
+      "line_count": 51
+    }
+  },
+  "confidence_output": {
+    "store_name": {
+      "value": "Walnart",
+      "confidence": 0.6616
+    },
+    "date": {
+      "value": "12/08/15",
+      "confidence": 0.6552
+    },
+    "total_amount": {
+      "value": "39,24",
+      "confidence": 0.7134
+    },
+    "items": [
+      {
+        "name": {
+          "value": "12",
+          "confidence": 0.5398
+        },
+        "price": {
+          "value": "39,24",
+          "confidence": 0.4834
+        }
+      }
+    ],
+    "flags": [
+      {
+        "field": "store_name",
+        "confidence": 0.6616,
+        "warning": "Low confidence – manual review recommended"
+      },
+      {
+        "field": "date",
+        "confidence": 0.6552,
+        "warning": "Low confidence – manual review recommended"
+      },
+      {
+        "field": "items[0].name",
+        "confidence": 0.5398,
+        "warning": "Low confidence – manual review recommended"
+      },
+      {
+        "field": "items[0].price",
+        "confidence": 0.4834,
+        "warning": "Low confidence – manual review recommended"
+      }
+    ]
+  }
+}

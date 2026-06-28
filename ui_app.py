@@ -1,4 +1,4 @@
-~"""
+"""
 ui_app.py
 Streamlit web UI for the AI OCR Pipeline
 Display receipt processing results with interactive dashboard

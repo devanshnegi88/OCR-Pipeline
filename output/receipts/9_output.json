@@ -1,0 +1,30 @@
+{
+  "file": "9.jpg",
+  "raw_text": "[VimGd\nTit\nF@@ D S\nIW Pfr hsWt\n5\"19c9r988 46GG ,\n23065\nYolanda\n11,16,24\nTX\nI\n7056087677\n2.56 fS\n28\nB\n18\nDIEI\nLN\nPORK\nFP\nMA 5 Ee 2475630008\nEERw\nBEEF FoR\nPORK 1/2\nB/BEST $\nBaRtS MeAT FRNK\n0/m HAH\n7055280303\nWINCO NOODLES\nTNdRBRo\nchiBaeR 3787401918\n5.84F\nKRFT DELUXE MAc\n2 0\n1.82\n435\nEounahaars , 3800334\n1\nLg OAiMEal CRM_7430004103\nHEEStotRousE\nTao@0f006\n1\nU\nturkey FRANK\n4222281210\nRESERS POT SLD\n7111719300\nDM SPaG SAUCE\n2400052363\nHunts MANWICH\n2700044212\n1.64\n2\n82\nDM PNAPL  CHNKY\n2400000164\n~1,96-FS\n2 @\n98-\"\nSUNBEAN BUNS\n7763305333\n1,98\nEncS HoRgcHLEK 7455200606\n'98\nR\nEGGS\n7003837280\n37\nSUBTOTAL\n121_\n83\nTOTAL TaX\nTOTAL\n421.92\n5ufvtmtt4rt [\n0g3,=ao8\n(dshlur\n09/08/14\n2\nGRLC\nNYORK\n0\n#INGS\nCHICKEN\nBLEND\nPICSMEET\n134\nGREENS\nPICSHEET\n2683848888\nNINGS\n1\n1\nCHICKEN\nGRND\n20337400000\nCHOP\n1\n11800000\nLOIN\n26842\nDRUHSTICKS\n201482000(\nStk\n20254300005\nSTEH\n2032330000C\nLOIN\n44979212\nSTEAK\n1590013401\n3\n4470001903\n2100055886\n1",
+  "structured": {
+    "store_name": "[VimGd",
+    "date": "09/08/14",
+    "items": [],
+    "total_amount": "421.92",
+    "_meta": {
+      "avg_ocr_confidence": 0.5401,
+      "line_count": 114
+    }
+  },
+  "confidence_output": {
+    "store_name": {
+      "value": "[VimGd",
+      "confidence": 0.7241
+    },
+    "date": {
+      "value": "09/08/14",
+      "confidence": 0.7281
+    },
+    "total_amount": {
+      "value": "421.92",
+      "confidence": 0.7811
+    },
+    "items": [],
+    "flags": []
+  }
+}

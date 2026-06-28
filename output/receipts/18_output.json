@@ -1,0 +1,30 @@
+{
+  "file": "18.jpg",
+  "raw_text": "Gyv\n(cocljaek\nclr\"vay, wulnur\ncom\nTllk  Yuxtt  TD) 0 ' 1041137157NX5'\nWalmart\n063\nc48c93S3AE8h,EL\n1450 CYPRESS\nBLVD\nMINieh HANEN F4 33884\nSIH 03347 Coi 0090os JEV J6 TRH 05386_\nGv WATER\n07874535494\n0,98\nGv HaIEk\n07814235191\n0.98\nCRREAT VaIUf\n007874206202\n84\nCREA VMU\n027874206202\nGAZN LFe\n003700077007\nGATN\n03700076954\nGv VEC 0JL\n017874721000\nSNLCKER FS\n004000050533\nCOUR FS; GrK\n003400029556\nMIXED Cikc\n840000i7542\nCFIERRIES\nGATN\nHy RSILEG PM\nBATTERTES\n8\nGV 20Z HINI\n58\nCRNBRY  SAUXT\nSPRCADS\nEGGS 6CT\nTax\n1.00\n86\nTotaL\n86\nTe:\nDe\nPay Fict\n[T} &6165\nTotAL_\n9832\nREF\n8076 APPR CODE\nTD\nDs Debit\nATD\nAAC\n18\n3938_\nTcI 7563\nVay\nYot Can\nCoS\n0w\n837050273\n035497333521H\n001280051783\n007874219999\n003120001605\n002740026499\n1\n007874212709\nSuato[AL\nDEBIT\nCiuuce\nPRIHARY\nDEBIT\nPURciuS\nI 0\nTK*\nKIIr\nDEBIT\nFIFTIITIMRD\n\"130400725877\n001740\nNETHORK\nRo0n00842203\nA8FABF300F007485\nSC011151\n10;08:22\nTCRHINAL\n10/31/21\nSULD\n7373\nITEHS\n0953\n71623\n'Every\nInust -\n10:08:26\n70/31/21",
+  "structured": {
+    "store_name": "Gyv",
+    "date": "10/31/21",
+    "items": [],
+    "total_amount": "1.00",
+    "_meta": {
+      "avg_ocr_confidence": 0.5123,
+      "line_count": 106
+    }
+  },
+  "confidence_output": {
+    "store_name": {
+      "value": "Gyv",
+      "confidence": 0.7074
+    },
+    "date": {
+      "value": "10/31/21",
+      "confidence": 0.7086
+    },
+    "total_amount": {
+      "value": "1.00",
+      "confidence": 0.763
+    },
+    "items": [],
+    "flags": []
+  }
+}

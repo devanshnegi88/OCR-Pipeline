@@ -1,0 +1,62 @@
+{
+  "file": "0.jpg",
+  "raw_text": "WAL  MART\nALWAYS\nLow PRIGES.\nAlwwone\nSUPERCENTER\nOPEN 24 KOURS\nMANAGER\nTBA\n515\n986\n1783\nST# 5748 OP# 00000158 TEIL14 TR# 03178\nBANANAS\n00000000401iKF\n0.41\nIb\n1 Ib /0.49\n0.20\nFRAP\n001200010451\nF\n5.48\nN\nDISCOUNT   GIVEN\nSUBTOTAL\n8\nTOITAL\nGHSNGe\n\"eue\n13\n83\n# ITEMS SOLD 2\nT95e79,8348,6485.7828.2003\nH\nHI\nTHANK YoU EOR SHOPPING NITH Us\nNATHANiEL'Bust\nYour\nShop at Talmart\n8 Get\nBack t8 scfiooi\nfor\n08720/10\n189.88\nLess_",
+  "structured": {
+    "store_name": "WAL  MART",
+    "date": null,
+    "items": [
+      {
+        "name": "1 Ib /",
+        "price": "0.49"
+      }
+    ],
+    "total_amount": "189.88",
+    "_meta": {
+      "avg_ocr_confidence": 0.6701,
+      "line_count": 45
+    }
+  },
+  "confidence_output": {
+    "store_name": {
+      "value": "WAL  MART",
+      "confidence": 0.8021
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "total_amount": {
+      "value": "189.88",
+      "confidence": 0.7856
+    },
+    "items": [
+      {
+        "name": {
+          "value": "1 Ib /",
+          "confidence": 0.6686
+        },
+        "price": {
+          "value": "0.49",
+          "confidence": 0.6356
+        }
+      }
+    ],
+    "flags": [
+      {
+        "field": "date",
+        "confidence": 0.0,
+        "warning": "Low confidence – manual review recommended"
+      },
+      {
+        "field": "items[0].name",
+        "confidence": 0.6686,
+        "warning": "Low confidence – manual review recommended"
+      },
+      {
+        "field": "items[0].price",
+        "confidence": 0.6356,
+        "warning": "Low confidence – manual review recommended"
+      }
+    ]
+  }
+}

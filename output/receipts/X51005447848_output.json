@@ -1,0 +1,30 @@
+{
+  "file": "X51005447848.jpg",
+  "raw_text": "LIAN CHI PU TIAN VEGETARIAN\nRESTAURANT SDN BHD\n1095514-X _\n(GST ID No\n001147416576)\n54,JALAN SS23/11\nTAMAN SEA,47400\nPETALING JAYA,SELANGOR\nTcl 03-7805 7889, 016-3020 669\nTable\n:8\nCashier\nDate\n06/01/18\n12 17 26 PM\nIlein\nQty\nPrice\nAmout\n(S)\n15.90\nCURRY MIXED VEGE\n515\n16 35\n16 ?' .\n:R\n(S)\n13 90\n517\n14 73\n14 73\nSR\n(12 PCS)\n12 00\n'XINGHUA' SPRING ROLL\n410\n12 72\n12 72\nSF\n(POT)\n3 00\nTI GUAN YIN TEA\n822\n3 18\n3 18\nSR\n(B)\n50\nPLAIN RICE\n922\n2\n1\n59\n3 18\nSR\nGross Amt\n47 80\nSvr Tax\n2 87\nGST (6%)\n2.86\nNet Amt\n53.55\n(XS*[' SIlliii)\nAmuRA)\n'IiLM(RA/)\n(p0 0\n2 87\nU.(1\nSR ( 690\n117.80\n2 S6\nTHANK YOU\nPLEASE COME AGAIN",
+  "structured": {
+    "store_name": "LIAN CHI PU TIAN VEGETARIAN",
+    "date": "06/01/18",
+    "items": [],
+    "total_amount": "117.80",
+    "_meta": {
+      "avg_ocr_confidence": 0.8092,
+      "line_count": 74
+    }
+  },
+  "confidence_output": {
+    "store_name": {
+      "value": "LIAN CHI PU TIAN VEGETARIAN",
+      "confidence": 0.8855
+    },
+    "date": {
+      "value": "06/01/18",
+      "confidence": 0.9164
+    },
+    "total_amount": {
+      "value": "117.80",
+      "confidence": 0.876
+    },
+    "items": [],
+    "flags": []
+  }
+}

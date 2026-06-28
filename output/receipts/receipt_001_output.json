@@ -1,0 +1,36 @@
+{
+  "file": "receipt_001.jpg",
+  "raw_text": "SUPERMRRKE\nRECEIPT\nDate: 2024-01-15\nItem: Milk.50\nItem: Bread.50\nTotal:.QQ",
+  "structured": {
+    "store_name": "SUPERMRRKE",
+    "date": "2024-01-15",
+    "items": [],
+    "total_amount": null,
+    "_meta": {
+      "avg_ocr_confidence": 0.7158,
+      "line_count": 6
+    }
+  },
+  "confidence_output": {
+    "store_name": {
+      "value": "SUPERMRRKE",
+      "confidence": 0.8295
+    },
+    "date": {
+      "value": "2024-01-15",
+      "confidence": 0.8511
+    },
+    "total_amount": {
+      "value": null,
+      "confidence": 0.0
+    },
+    "items": [],
+    "flags": [
+      {
+        "field": "total_amount",
+        "confidence": 0.0,
+        "warning": "Low confidence – manual review recommended"
+      }
+    ]
+  }
+}

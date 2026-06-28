@@ -1,0 +1,14 @@
+{
+  "total_spend": 4655.5,
+  "num_transactions": 6,
+  "spend_per_store": {
+    "Walnart": 3924.0,
+    "[VimGd": 421.92,
+    "WAL  MART": 189.88,
+    "LIAN CHI PU TIAN VEGETARIAN": 117.8,
+    "Gyv": 1.0,
+    "HOME Irs7e@ kardware &": 0.9
+  },
+  "failed_files": [],
+  "currency_note": "All amounts in document currency (not normalised)"
+}
